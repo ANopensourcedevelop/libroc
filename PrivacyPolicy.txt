@@ -1,0 +1,4 @@
+This app does not collect or share any data.It only works locally on your mobile phone without the need for an internet connection.
+There are no ads and there is absolutely no monetization from this app.
+You can read the source code of the application.
+If you have any questions, you can contact me - an.opensourcedevelop@gmail.com
